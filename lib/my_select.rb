@@ -8,4 +8,5 @@ def my_select(collection)
    else
    end
  end
+ newcollect
 end
